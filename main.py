@@ -1,3 +1,3 @@
 print("Enter your name: ")
-name=input()
-print(name)
+gun=input()
+print(gun)
